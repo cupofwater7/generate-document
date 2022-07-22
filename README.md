@@ -1,5 +1,7 @@
+                                                Coding Interview Questions
 # generate-document
 
+Difficulty: easy
 
   You're given a string of available characters and a string representing a
   document that you need to generate. Write a function that determines if you
